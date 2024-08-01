@@ -1,6 +1,6 @@
 <div><h1>😎 KIM JI WON</h1></div>
 
-[![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksruf3414)](https://solved.ac/gksruf3414)
+[![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newkimjiwon)](https://solved.ac/newkimjiwon)
 
 <div><h1>📚 STACK</h1></div>
 
