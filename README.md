@@ -2,6 +2,8 @@
 
 [![solved.acprofile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newkimjiwon)](https://solved.ac/newkimjiwon)
 
+<br/>
+
 <div><h1>📚 STACK</h1></div>
 
 ### Language
@@ -24,3 +26,8 @@
 ### Management
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+<div><h1>😎 TISTORY</h1></div>
+https://newkimjiwon.tistory.com/
